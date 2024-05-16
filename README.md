@@ -34,7 +34,7 @@ Mobile View
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://brianhammer.github.io/blog-preview-card/)
+- Live Site URL: [https://brianhammer.github.io/blog-preview-card/](https://brianhammer.github.io/blog-preview-card/)
 
 ## My process
 
