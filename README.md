@@ -34,13 +34,13 @@ Mobile View
 
 ### Links
 
-- Live Site URL: [Add live site URL here](TO_BE_ADDED)
+- Live Site URL: [Add live site URL here](https://brianhammer.github.io/blog-preview-card/)
 
 ## My process
 
 Built with tailwind. I put many of the colors layed out in the style-guide inside tailwind.config. Set the 'content' setting to the ./index.html path. Whenever edits need to be made, I run the following command:
 
-``` npx tailwindcss -i ./input.css -o ./output.css --watch ```
+`npx tailwindcss -i ./input.css -o ./output.css --watch`
 
 I view my edits using live server.
 
@@ -52,7 +52,7 @@ I view my edits using live server.
 
 ### What I learned
 
-I learned more about making custom shadows, and importing them into tailwind. I also learned about tailwind's outline class. 
+I learned more about making custom shadows, and importing them into tailwind. I also learned about tailwind's outline class.
 
 ### Continued development
 
